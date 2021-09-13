@@ -3,4 +3,4 @@ OPENBLOX has been replaced with ob-framework. This engine can simulate 2015E (fo
 # How do I use this?
 Go to the Examples folder for more information.
 
-I'm not deleting this repo, go cry about it.
+I'm not deleting this repo, cope harder.
