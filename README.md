@@ -3,4 +3,6 @@ OPENBLOX has been replaced with ob-framework. This engine can simulate 2015E (fo
 # How do I use this?
 Go to the Examples folder for more information.
 
+To change FFlags, go to Framework -> Global -> ReplicatedStorage -> OB_Services -> GlobalSettings. You'll see them there. Same process with admins, but you have to scroll down. There are other settings, too.
+
 I'm not deleting this repo, cope harder.
