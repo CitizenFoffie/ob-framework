@@ -8,4 +8,5 @@ Old HealthBar for 2014E-2014L <br />
 Enum class for old Enum types
 
 TODO in v1.5.1: <br />
-LoadingScripts
+LoadingScripts <br />
+Clean Script Analysis
