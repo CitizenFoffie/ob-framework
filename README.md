@@ -1,5 +1,5 @@
 # About
-OPENBLOX has been replaced with ob-framework. This engine can simulate 2015E (for now. after 2015E is done, expect WAY more time periods)
+OPENBLOX has been replaced with ob-framework. This engine can simulate 2015M, 2015E, 2014L, 2014M, and 2014E.
 # In-game screenshots
 2014E:
 ![2014E](https://cdn.discordapp.com/attachments/880711006098190338/922550770178605146/RobloxScreenShot20211220_130427393.png)
