@@ -6,4 +6,6 @@ Added a new mouse controller, which fixes Player:GetMouse().Icon.
 
 Added an accurate filter system. Player1 is the sender, and Player2 is receiving the message. Player1 sees the unfiltered message, but Player2 sees the filtered message. ![This is allowed by Roblox.](https://developer.roblox.com/en-us/articles/Text-and-Chat-Filtering#exception)
 
+Added LoadingScripts for all of the time periods I could.
+
 A bunch more stuff that I forgot about. (I've been working on v1.6 for over a month)
