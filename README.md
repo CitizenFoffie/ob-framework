@@ -26,5 +26,3 @@ To change FFlags, go to Framework -> Global -> ReplicatedStorage -> OB_Services 
 
 Demo game: https://www.roblox.com/games/7423761766/OB-Framework 
 Module ID: 7467219669
-
-![I'm not deleting this repo.](https://user-images.githubusercontent.com/73150246/154198649-446296de-3195-4f55-87d4-bd75c9eafe37.mp4)
