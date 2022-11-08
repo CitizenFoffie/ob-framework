@@ -7,6 +7,7 @@ Added 2010-2014L Bubblechat
 Added Playerlist and Chat customization(icons)
 
 ***ACTUALLY FIXED*** 2014M backpack bug
+Added period accurate textures
 
 More I probaly forgot about
 
