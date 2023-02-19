@@ -1,6 +1,6 @@
 # About
 OPENBLOX has been replaced with ob-framework. This engine can simulate 2016L, 2016M, 2016E, 2015L, 2015M, 2015E, 2014L, 2014M, 2014E, 2012L, and 2012M.
-https://discord.gg/YTxPx483
+https://discord.gg/2VR3Ut97pe
 # In-game screenshots
 2014E:
 ![2014E](https://cdn.discordapp.com/attachments/880711006098190338/922550770178605146/RobloxScreenShot20211220_130427393.png)
