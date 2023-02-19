@@ -8,6 +8,7 @@ Added Playerlist and Chat customization(icons)
 
 ***ACTUALLY FIXED*** 2014M backpack bug
 Added period accurate textures
+***SHIFTLOCK***
 
 More I probaly forgot about
 
