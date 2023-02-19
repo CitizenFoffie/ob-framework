@@ -25,5 +25,5 @@ Go to the Examples folder for more information.
 
 To change FFlags, go to Framework -> Global -> ReplicatedStorage -> OB_Services -> GlobalSettings. You'll see them there. Same process with admins, but you have to scroll down. There are other settings, too.
 
-Demo game: https://www.roblox.com/games/7423761766/OB-Framework 
+Demo game: https://www.roblox.com/games/12547537284/SFOTH-OB-Framework
 Module: https://www.roblox.com/library/12546168011/OB-Framework 
